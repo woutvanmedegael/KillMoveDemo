@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KillMoveTester</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Zoombutton">Zoom to me!</string>
+</resources>
